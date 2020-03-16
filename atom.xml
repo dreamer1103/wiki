@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xaoxuu&#39;s wiki</title>
+  <icon>https://www.gravatar.com/avatar/adb7d1cd192658a55c0ad22a3309cecf</icon>
+  
+  <link href="/wiki/atom.xml" rel="self"/>
+  
+  <link href="https://xaoxuu.com/wiki/"/>
+  <updated>2019-06-13T14:07:30.412Z</updated>
+  <id>https://xaoxuu.com/wiki/</id>
+  
+  <author>
+    <name>xaoxuu</name>
+    <email>me@xaoxuu.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://xaoxuu.com/wiki/posts/000/"/>
+    <id>https://xaoxuu.com/wiki/posts/000/</id>
+    <published>2019-06-13T14:07:30.411Z</published>
+    <updated>2019-06-13T14:07:30.412Z</updated>
+    
+    <content type="html"><![CDATA[<p>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;.&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
